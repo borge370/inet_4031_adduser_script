@@ -17,7 +17,7 @@ firstname: first name,
 groups: Groups for users - a user can be in multiple
 
 ## Command Excuction
-IF NOT WORKING RUN "sudo chmod +x create-users.py"
+IF NOT WORKING RUN "sudo chmod +x create-users.py"./n
 The +x allows it be executed. 
 sudo python3 ./create-users.py < create-users.input
 Requires sudo privledges since we're adding users and adjusting passwords.

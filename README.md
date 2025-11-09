@@ -1,7 +1,7 @@
 # INET4031 Add Users Script and User List
 ## Program Description
 
-Automates the use of the "adduser" command to create multiple user accounts from one input file. The script reads user info line by line and fills in all the requirements (passwords, groups)
+Automates the use of the "adduser" command to create multiple user accounts from one input file. The script reads user info line by line and fills in all the requirements automatically.
 
 ## Program User Operation
 

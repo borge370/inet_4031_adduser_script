@@ -9,10 +9,11 @@ This progran reads an input file with user information and automatically inputs 
 
 ## Input File Format
 Each line of input file requires 5 fields seperated by colons.
-username: login name
-password: password
-lastname: last name
-firstname: first name
+
+username: login name, 
+password: password, 
+lastname: last name, 
+firstname: first name, 
 groups: Groups for users - a user can be in multiple
 
 ## Command Excuction

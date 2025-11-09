@@ -18,11 +18,11 @@ groups - a user can be in multiple
 
 ## Command Excuction
 IF NOT WORKING RUN "sudo chmod +x create-users.py".
-The +x allows it be executed. 
-sudo python3 ./create-users.py < create-users.input
+The +x allows it be executed.
+Run "sudo python3 ./create-users.py < create-users.input" to start the autonomous process.
 Requires sudo privledges since we're adding users and adjusting passwords.
 
 
 ## "Dry Run"
-COMMENT OUT ALL LINES THAT UTILIZE THE "import os"
+COMMENT OUT ALL LINES THAT UTILIZE THE "import os" BEFORE RUNNING!!! 
 If these lines are not commented out you run the risk of inputting incorrect data and then you'll need to manually remove it after this code automatically adds users... large waste of time don't ignore this.
